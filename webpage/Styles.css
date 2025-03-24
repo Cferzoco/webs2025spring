@@ -1,0 +1,20 @@
+body {
+  color: #497056;               /* Dark gray */
+  background-color: #d7f7e2;    /* Light gray */
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 4.5em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+h1, h2{
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+h1, h2{
+  background-color: #f5d7ec
+  ;    /* Light gray */
+}
