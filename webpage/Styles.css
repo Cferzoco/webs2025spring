@@ -1,6 +1,10 @@
 body {
   color: #497056;               /* Dark gray */
-  background-color: #d5eddc;    /* Light gray */
+  background-color: #dbc5c5;    /* Light gray */
+  background-image: url("images/Notebook.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
   font-size: 18px;
 }
 
