@@ -14,11 +14,24 @@ h1 {
 
 h2 {
   font-size: 3em;
-}
-h1, h2{
-  font-family: "Helvetica", "Arial", sans-serif;
+
 }
 h1, h2{
   background-color: #f5d7ec
   ;    /* Light gray */
+}
+body{
+  font-family: "helvecta", "Arial", sans-serif;
+  margin: 0;
+}
+h2 {
+  padding-left: 1em;
+}
+.wrapper {
+  background: #ffffffaa;
+  backdrop-filter: blur(5px);
+  padding: 1em;
+  max-width: 50em;
+  margin: 0 auto;
+  border-radius: 10px;
 }
